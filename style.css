@@ -1,0 +1,16 @@
+.entour{
+    border: 1px solid red;
+    text-align: center;
+    padding: 2%;
+
+}
+.bloc{
+    margin-left: 20% ;
+    margin-top: 10%;
+}
+.button{
+    margin: 4% ;
+}
+p{
+    font-size: 250%;
+}
