@@ -1,0 +1,15 @@
+<html>
+	<head>
+	<meta charset="utf-8"/>
+	<title> MENU</title>
+	</head>
+	<body>
+	<h1>.....MENU SEN MONEY....<h1> <br/>
+	<h2> Tapez le numero du service choisi<h2> <br/>
+	1: Solde de mon Compte<br/>
+	2: Transfert d'argent<br/>
+	3:Paiement de facture<br/>
+	4:Options<br/>
+	<input type= number/> <br/>
+	</body>
+</html>
